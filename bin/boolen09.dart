@@ -1,8 +1,8 @@
 bool func(int a) {
     bool ans;
-    ans = a < 10;
+    ans = a < 77;
     return ans;
 }
 void main() {
-    print(func(9));
+    print(func(7));
 }
